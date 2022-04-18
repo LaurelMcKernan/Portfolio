@@ -1,0 +1,59 @@
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+
+.title {
+    padding: 30px;
+    display: inline-block;
+}
+
+.navBar {
+    list-style-type: none;
+    display:inline-block;
+    padding: 15px;
+    margin: 0;
+    font-size: 18px;
+}
+
+.contact {
+    display: inline-block;
+    margin: 0;
+    padding: 15px;
+    font-size: 14px;
+}
+
+ul li {
+    list-style-type: none;
+    display:inline-block;
+    margin: 0;
+    padding: 15px;
+  }
+
+.profilePic {
+    display: inline-block;
+    padding: 15px;
+}
+
+.Rectangle {
+    display: inline-block;
+    position: absolute;
+    padding: 0px;
+}
+
+.flex_item {
+    display: inline-block;
+    max-width: 566px;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.skillSet {
+    display: inline-block;
+}
+
+.mark {
+    display: block;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
